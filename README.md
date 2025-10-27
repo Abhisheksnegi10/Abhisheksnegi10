@@ -1,7 +1,7 @@
 <!-- Profile README for Abhisheksnegi10 -->
 
 <p align="center">
-  <img src="" />
+  <img src="https://avatars.githubusercontent.com/u/212256443?v=4" />
 </p>
 
 <h1 align="center">Hi there, I'm Abhishek Singh Negi 👋</h1>
@@ -91,3 +91,4 @@ Sagar Institute of Research & Technology, Bhopal
 ---
 
 > “Turning ideas into intelligent solutions.” 🚀
+\
