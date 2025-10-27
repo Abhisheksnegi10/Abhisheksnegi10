@@ -1,7 +1,7 @@
 <!-- Profile README for Abhisheksnegi10 -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Abhisheksnegi10?v=4" width="120" height="120" alt="Abhishek Negi Avatar" style="border-radius:50%;" />
+  <img src="" />
 </p>
 
 <h1 align="center">Hi there, I'm Abhishek Singh Negi 👋</h1>
