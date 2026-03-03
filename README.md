@@ -81,7 +81,6 @@ Not a tutorial clone. Built from scratch — dataset preprocessing, model traini
 **Stack:** `PyTorch` `MuRIL` `Llama 3` `Ollama` `LangChain` `FastAPI` `Docker` `React` `Sarvam AI` `DPDP 2023`
 
 [📐 View Full System Architecture →](https://htmlpreview.github.io/?https://github.com/Abhisheksnegi10/EmpathEase/blob/main/empathease_architecture.html)
-)
 
 ---
 
