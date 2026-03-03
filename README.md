@@ -96,18 +96,6 @@ Not a tutorial clone. Built from scratch — dataset preprocessing, model traini
 
 ---
 
-### 📝 [Linguister — Deployed NLP Tool](https://github.com/Abhisheksnegi10)
-
-> NLP toolkit with Google Pegasus LLM for abstractive summarization, deployed as a web service.
-
-- 75% accuracy on summarization benchmarks
-- FastAPI + Docker backend, Gradio UI
-- Vocabulary conversion and text processing pipeline
-
-**Stack:** `Google Pegasus` `FastAPI` `Docker` `Gradio` `NLTK`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
